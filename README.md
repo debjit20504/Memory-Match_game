@@ -1,6 +1,6 @@
-# Memory matching game
+# ![Memory matching game](https://debjit20504.github.io/Memory-Matching_game/)
 
-## <b> [Click here to Play the GAME!!](https://debjit20504.github.io/Memory-Matching_game/)
+<!-- ## <b> [Memory matching game](https://debjit20504.github.io/Memory-Matching_game/) -->
 
 Memory Matching Game is a simple online fun game, which contains various levels. It also calculates how many moves and how much time taken by a player to finish the game.
 This project is made using HTML,CSS &amp; JavaScript.
