@@ -1,4 +1,4 @@
-# <b>[Memory matching game](https://debjit20504.github.io/Memory-Matching_game/)
+# [Memory matching game](https://debjit20504.github.io/Memory-Matching_game/)
 
 <!-- ## <b> [Memory matching game](https://debjit20504.github.io/Memory-Matching_game/) -->
 
